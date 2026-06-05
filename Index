@@ -494,7 +494,7 @@
 
 <script>
 // ── YOUR APPS SCRIPT URL — do not change this ──
-const EXEC_URL = 'https://script.google.com/macros/s/AKfycbweAKtvZAcMDrXUPzCzqw4LLiOvvGxvnO9TENLbwAJLVY49cNUv4oMxz78tOgosQhrRxQ/exec';
+const EXEC_URL = 'https://script.google.com/macros/s/19zfnUOcQ8ZkjhFQ5eD7ZzrSwjLUI58Vb5Owx3pQjMZc/exec';
 
 // ── DOCUMENT BUTTONS (no emergency buttons) ──
 var DOCS = [
